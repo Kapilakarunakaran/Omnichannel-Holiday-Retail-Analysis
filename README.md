@@ -158,7 +158,7 @@ This dashboard enables retail decision-makers to:
 
 ## Executive Overview
 
-![Executive Overview](assets/Executive_Overview.png)
+![Executive Overview](assets/Executive_Overview.jpg)
 
 ---
 
@@ -170,7 +170,7 @@ This dashboard enables retail decision-makers to:
 
 ## Product Analysis
 
-![Product Analysis](assets/Product_Analysis.jpg)
+![Product Analysis](assets/Product_Analysis.png)
 
 ---
 
