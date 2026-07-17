@@ -144,7 +144,7 @@ This dashboard enables retail decision-makers to:
 
 ### 📊 Power BI Report
 
-👉 **[Download PBIX File](Omnichannel_Christmas_Retail_Sales_Final_report.pbix.)**
+👉 **[Download PBIX File](Omnichannel_Christmas_Retail_Sales_Final_report.pbix)**
 
 ---
 
