@@ -18,7 +18,7 @@
 | **Domain** | Retail Analytics |
 | **Tool** | Power BI |
 | **Dataset** | Omnichannel Holiday Retail Dataset |
-| **Dashboard Pages** | 5 |
+| **Dashboard Pages** | 4 |
 | **Skills** | DAX, Power Query, Data Modeling, KPI Design, Business Storytelling |
 | **Outcome** | 🥈 Runner-Up |
 
