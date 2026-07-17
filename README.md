@@ -158,25 +158,25 @@ This dashboard enables retail decision-makers to:
 
 ## Executive Overview
 
-![Executive Overview](assets/Executive_Overview.jpg)
+![Executive Overview](Assets/Executive_Overview.png)
 
 ---
 
 ## Promotion Analysis
 
-![Promotion Analysis](assets/Promotion_Analysis.png)
+![Promotion Analysis](Assets/Promotion_Analysis.png)
 
 ---
 
-## Product Analysis
+## Product Delivery Analysis
 
-![Product Analysis](assets/Product_Analysis.png)
+![Product Delivery Analysis](Assets/Delivery_Analysis.jpg)
 
 ---
 
 ## Returns Analysis
 
-![Returns Analysis](assets/Returns_Analysis.png)
+![Returns Analysis](Assets/Product_Returns_Analysis.jpg)
 
 ---
 
@@ -184,7 +184,7 @@ This dashboard enables retail decision-makers to:
 
 This solution follows a **star-schema inspired data model**, integrating order, product, promotion, fulfillment, returns, customer, and calendar tables to support scalable business reporting and high-performance analytics.
 
-![Data Model](assets/Data_Model.png)
+![Data Model](Assets/Data_Model.png)
 
 ---
 
